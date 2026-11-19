@@ -1,0 +1,13 @@
+# TocaSheets »
+TocaSheets (TcS) é um projeto criado para facilitar mesas de rpg, dando aos usuários acesso a um criador de fichas de RPG automatizadas e ao escudo do mestre, onde podem acompanhar combates e investigações que acontecerem durante as sessões.
+
+## Planejamento »
+As Principais funções planejada para o app.
+- [ ] Ficha para D&D 5e (5.5e/2024)
+- [ ] Salvar no navegador
+- [ ] Sincronização entre players e mestres
+- [ ] Instalável em Celulares (com PWA)
+- [ ] Suporte a outros sistemas como Pathfinder 2ª edição
+
+## Status de Desenvolvimento »
+![Progresso](https://img.shields.io/badge/progresso-20%25-blue)
