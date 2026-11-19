@@ -10,4 +10,4 @@ As Principais funções planejada para o app.
 - [ ] Suporte a outros sistemas como Pathfinder 2ª edição
 
 ## Status de Desenvolvimento »
-![Progresso](https://img.shields.io/badge/progresso-20%25-blue)
+![Progresso](https://img.shields.io/badge/PROGRESSO-20%25-6366f1?style=for-the-badge&labelColor=1e1b4b)
