@@ -1,0 +1,16 @@
+footer nav {
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    padding: 5px;
+}
+
+.giticon {
+    height: 30px;
+    margin: 0px;
+}
+
+.discicon {
+    height: 25px;
+    margin: 0px;
+}
