@@ -13,6 +13,7 @@ header {
   display: flex;
   align-items: center;
   gap: 0.5rem;
+  text-decoration: none;
 }
 
 .logo img {
@@ -35,6 +36,14 @@ nav a {
   text-decoration: none;
 }
 
+.sel {
+  text-decoration: underline;
+  text-decoration-color: rgb(255, 28, 138);
+  text-decoration-thickness: 2px;
+  text-underline-offset: 3px;
+  font-weight: bold;
+}
+
 .avatar {
   width: 36px;
   height: 36px;
@@ -53,27 +62,4 @@ nav a {
   .logo img {
     height: 40px;
   }
-
-  .logo span {
-    display: none;
-  }
-
-  nav {
-    display: flex;
-    align-items: center;
-    gap: 1rem;
-  }
-
-  nav a {
-    color: white;
-    text-decoration: none;
-  }
-
-  .avatar {
-    width: 36px;
-    height: 36px;
-    border-radius: 50%;
-    background: white;
-  }
-
 }
